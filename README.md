@@ -9,7 +9,7 @@
 </div>
 
 
-### Descrição
+## Descrição
 
 O script desenvolvido em python juntamente com streamlit visa fazer a manipulação de planilhas, excluindo colunas de forma automática e manual possibilitando a criação de novas planilhas de maneira prática e rápida.
 
@@ -19,7 +19,7 @@ O script desenvolvido em python juntamente com streamlit visa fazer a manipulaç
 
 
 
-### 🚀 Funcionalidades
+## 🚀 Funcionalidades
 
  - Upload de planilhas `.xlsx` ou `.xls`
  - Remoção automática de colunas com **presets pré-configurados**
@@ -31,12 +31,12 @@ O script desenvolvido em python juntamente com streamlit visa fazer a manipulaç
  - Download único em **arquivo ZIP**
  - Interface moderna e leve feita com Streamlit
 
-### ⚙️ Requisitos
+## ⚙️ Requisitos
 
 - Python **3.9 ou superior**
 - Bibliotecas Python (instalação abaixo)
 
-### 📦 Instalação
+## 📦 Instalação
 
 1. **Clone o repositório** ou baixe o ZIP
 2. Descompacte o arquivo
@@ -58,7 +58,7 @@ streamlit run process_planilhas.py
 Local URL: http://localhost:8501
 ```
 
-### 🚀 Uso
+## 🚀 Uso
 1. Faça o upload da planilha original.
 2. Selecione a caixa de marcação para usar o preset e excluir colunas pré-definidas automáticamente.
 3. (Opcional) Se quiser, selecione manualmente as colunas que deseja manter ou excluir além daquelas disponíveis pelo preset.
