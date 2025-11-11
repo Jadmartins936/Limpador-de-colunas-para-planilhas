@@ -22,6 +22,33 @@ O script desenvolvido em python juntamente com streamlit visa fazer a manipulaç
 - Python **3.9 ou superior**
 - Bibliotecas Python (instalação abaixo)
 
+## 📦 Instalação
+
+1. **Clone o repositório** ou baixe o ZIP
+2. Descompacte o arquivo
+3. Abra seu terminal e digite o endereço em que a pasta foi extraída:
+```bash
+cd "C:\Users\SeuUsuario\seu endereço\projeto"
+```
+4.**Instale as dependências**, no seu terminal digite
+```bash
+pip install -r requirements.txt
+```
+5. Execute o projeto com a seguinte linha de comando no terminal:
+```bash
+streamlit run process_planilhas.py
+```
+6.Após executar o comando anterior, acesse o projeto no navegador por meio do link que será disponibilizado como esse:
+
+```bash
+Local URL: http://localhost:8501
+```
+
+
+
+
+
+
 
 
 
