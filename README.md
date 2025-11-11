@@ -1,9 +1,12 @@
 <h1 align="center">🧮 Limpador de colunas para planilhas</h1>
 
-
+<div align="center">
+ 
 ![Logo do projeto](./assets/python.svg)
 ![Logo do projeto](./assets/streamlit.svg) 
 ![Logo do projeto](./assets/pandas.svg)
+
+</div>
 
 
 ### 💡 Descrição
