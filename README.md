@@ -68,7 +68,7 @@ Local URL: http://localhost:8501
 
 ## Desenvolvedores
 
-|[<img src="https://avatars.githubusercontent.com/u/171989995?v=4" width="115px;"><br><sub><b>Jad Martins</b></sub>](https://github.com/Jadmartins936)|
+[<img src="https://avatars.githubusercontent.com/u/171989995?v=4" width="115px;"><br><sub><b>Jad Martins</b></sub>](https://github.com/Jadmartins936)
 
 
 
