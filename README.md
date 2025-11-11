@@ -66,6 +66,11 @@ Local URL: http://localhost:8501
 5. Baixe o arquivo `.zip` contendo as três novas planilhas.
 
 
+## Desenvolvedores
+
+| [<img src="https://avatars.githubusercontent.com/u/171989995?v=4" width=115><br><sub>Jad Martins</sub>](https://github.com/Jadmartins936?tab=repositories) | 
+
+
 
 
 
