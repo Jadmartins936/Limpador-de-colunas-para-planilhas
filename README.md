@@ -59,7 +59,7 @@ Local URL: http://localhost:8501
 ```
 
 ## 🚀 Uso
-1. Faça o upload da planilha original.
+1. Faça o upload da planilha de teste
 2. Selecione a caixa de marcação para usar o preset e excluir colunas pré-definidas automáticamente.
 3. (Opcional) Se quiser, selecione manualmente as colunas que deseja manter ou excluir além daquelas disponíveis pelo preset.
 4. Clique em **Gerar Planilhas**.
