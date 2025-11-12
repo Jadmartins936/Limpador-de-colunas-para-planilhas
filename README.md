@@ -42,7 +42,7 @@ O script desenvolvido em python juntamente com streamlit visa fazer a manipulaç
 2. Descompacte o arquivo
 3. Abra seu terminal e digite o endereço em que a pasta foi extraída:
 ```bash
-cd "C:\Users\SeuUsuario\seu endereço\projeto"
+cd "C:\Users\SeuUsuario\seuendereço\projeto"
 ```
 4.**Instale as dependências**, no seu terminal digite
 ```bash
